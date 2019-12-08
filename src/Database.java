@@ -21,6 +21,7 @@ public class Database {
 }
 class NewStudent{
     private static int ID = 100;
+    private String stringToGit = "ELo";
     private String surname;
     private String name;
     private String phone;
